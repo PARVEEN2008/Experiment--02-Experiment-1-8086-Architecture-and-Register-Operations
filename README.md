@@ -191,6 +191,13 @@ Write an 8086 assembly language program to exchange the contents of two
 7.  Record the observed results and compare them with the expected
     results.
 ## Screenshot of the results 
+<img width="1600" height="833" alt="WhatsApp Image 2026-10-27 at 4 28 16 PM" src="https://github.com/user-attachments/assets/464b6dca-5156-453e-a3c3-961ec47c830f" />
+<img width="1600" height="836" alt="coa" src="https://github.com/user-attachments/assets/dbc8a18b-7e25-4e16-bd47-70549f56906d" />
+<img width="1600" height="831" alt="coa2" src="https://github.com/user-attachments/assets/24f4a88a-ad75-45b3-ad74-10345e964a7f" />
+
+
+
+
 
 
 
